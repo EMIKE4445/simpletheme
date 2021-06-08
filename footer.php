@@ -1,0 +1,10 @@
+      
+      <footer>
+         <p> &copy; Copyright <?php echo date('Y')?> <strong><?php bloginfo('name');?></strong>. All Rights Reserved</p>
+      </footer>
+      <?php wp_footer(); ?>
+
+
+    
+   </body>
+</html>
